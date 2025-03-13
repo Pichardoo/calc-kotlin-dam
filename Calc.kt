@@ -56,3 +56,7 @@ fun main(args: Array) {
     }
     showResult(operation, result)
 }
+
+fun resta(num1: Int, num2: Int): Int {
+    return num1 - num2
+}
